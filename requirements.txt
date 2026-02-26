@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scipy
+statsmodels
+langgraph
+langchain
+langchain-core
+langchain-groq
+python-dotenv
+seaborn
